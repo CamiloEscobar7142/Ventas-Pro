@@ -1,0 +1,12 @@
+{
+  "background_color": "#181816",
+  "description": "Ventas-Pro",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Ventas Pro",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Ventas Pro",
+  "start_url": "https://camiloescobar7142.github.io/Ventas-Pro/",
+  "theme_color": "#1d9e75"
+}
